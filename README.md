@@ -116,7 +116,7 @@ DESARROLLO:
 16.	Opcional crear funciones para trabajar más limpio
 
 
-        * Función Crear
+* Función Crear
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
@@ -139,7 +139,7 @@ DESARROLLO:
 </p>
 
 
-        * Función Actualizar
+* Funcion Actualizar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
@@ -162,7 +162,7 @@ DESARROLLO:
 </p>
 
 
-        * Función Borrar
+* Función Borrar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
@@ -185,7 +185,7 @@ DESARROLLO:
 </p>
 
 
-        * Función Mostrar
+* Función Mostrar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
