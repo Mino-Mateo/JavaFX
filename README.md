@@ -115,11 +115,11 @@ DESARROLLO:
 
 16.	Opcional crear funciones para trabajar más limpio
 
-       * Función Crear
+    * Función Crear
 
-            • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
+         • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
-    <img src="Readme-Imagenes/paso12.png" width="560">
+        <img src="Readme-Imagenes/paso12.png" width="560">
 
 
             • Texto para señalar el funcionamiento del programa
