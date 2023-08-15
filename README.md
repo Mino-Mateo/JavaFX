@@ -62,7 +62,7 @@ DESARROLLO:
 
 7. Una vez creado el proyecto visualizamos todas las librerías
 
-   <img src="Readme-Imagenes/paso7.png" width="560">
+   <img src="Readme-Imagenes/paso7.png" width="400">
 
 
 8. Ahora añadimos la librería de SQL a nuestro proyecto
@@ -77,7 +77,7 @@ DESARROLLO:
 
 10. En nuestro archivo en Intellij damos click derecho sobre nuestro archivo “.fxml” y abrimos nuestro proyecto en nuestro “Scene Builder”
 
-    <img src="Readme-Imagenes/paso10.png" width="560">
+    <img src="Readme-Imagenes/paso10.png" width="500">
 
 
 11. Una vez dentro del “Scene Builder” veremos el sistema que tenemos
