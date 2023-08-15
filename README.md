@@ -120,68 +120,92 @@ DESARROLLO:
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16.png" width="560">
+</p>
 
 
             • Texto para señalar el funcionamiento del programa
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_2.png" width="560">
+</p>
 
 
             • Query de trabajo con las instrucciones a ejecutar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_3.png" width="560">
+</p>
 
 
         * Función Actualizar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_4.png" width="560">
+</p>
 
 
             • Texto para señalar el funcionamiento del programa
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_5.png" width="560">
+</p>
 
 
             • Query de trabajo con las instrucciones a ejecutar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_6.png" width="560">
+</p>
 
 
         * Función Borrar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_7.png" width="560">
+</p>
 
 
             • Texto para señalar el funcionamiento del programa
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_8.png" width="560">
+</p>
 
 
             • Query de trabajo con las instrucciones a ejecutar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_9.png" width="560">
+</p>
 
 
         * Función Mostrar
 
             • Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_10.png" width="560">
+</p>
 
 
             • Texto para señalar el funcionamiento del programa, aquí tendremos que detalla con el “rs.getInt o rs.getString” el tipo de datos de nuestra base de datos y con esto detallaremos el nombre de la columna de la base de datos.
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_11.png" width="560">
+</p>
 
 
             • Query de trabajo con las instrucciones a ejecutar
 
+<p align="center">
     <img src="Readme-Imagenes/paso16_12.png" width="560">
+</p>
 
 
 
@@ -189,116 +213,29 @@ DESARROLLO:
 
         * Botón Mostrar
 
+<p align="center">
     <img src="Readme-Imagenes/paso17.png" width="560">
+</p>
 
 
         * Botón Actualizar y Mostrar
 
+<p align="center">
     <img src="Readme-Imagenes/paso17_2.png" width="560">
+</p>
 
 
         * Botón Borrar (Debido a que se borró el dato no se mostrara el dato de SQL)
 
+<p align="center">
     <img src="Readme-Imagenes/paso17_3.png" width="560">
+</p>
 
 
         * Botón Crear y Mostrar 
 
+<p align="center">
     <img src="Readme-Imagenes/paso17_4.png" width="560">
-
-
-
-
-
-16. Opcional: crear funciones para trabajar de manera más limpia.
-
-Función Crear
-
-• Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16.png" width="560">
 </p>
-• Texto para señalar el funcionamiento del programa
 
-<p align="center">
-  <img src="Readme-Imagenes/paso16_2.png" width="560">
-</p>
-• Query de trabajo con las instrucciones a ejecutar
 
-<p align="center">
-  <img src="Readme-Imagenes/paso16_3.png" width="560">
-</p>
-Función Actualizar
-
-• Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_4.png" width="560">
-</p>
-• Texto para señalar el funcionamiento del programa
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_5.png" width="560">
-</p>
-• Query de trabajo con las instrucciones a ejecutar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_6.png" width="560">
-</p>
-Función Borrar
-
-• Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_7.png" width="560">
-</p>
-• Texto para señalar el funcionamiento del programa
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_8.png" width="560">
-</p>
-• Query de trabajo con las instrucciones a ejecutar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_9.png" width="560">
-</p>
-Función Mostrar
-
-• Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_10.png" width="560">
-</p>
-• Texto para señalar el funcionamiento del programa, aquí tendremos que detallar con el rs.getInt o rs.getString el tipo de datos de nuestra base de datos y con esto detallaremos el nombre de la columna de la base de datos.
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_11.png" width="560">
-</p>
-• Query de trabajo con las instrucciones a ejecutar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso16_12.png" width="560">
-</p>
-17. Una vez desarrollado el código, vamos a ejecutar el programa y visualizar los resultados.
-
-Botón Mostrar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso17.png" width="560">
-</p>
-Botón Actualizar y Mostrar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso17_2.png" width="560">
-</p>
-Botón Borrar (Debido a que se borró el dato no se mostrará el dato de SQL)
-
-<p align="center">
-  <img src="Readme-Imagenes/paso17_3.png" width="560">
-</p>
-Botón Crear y Mostrar
-
-<p align="center">
-  <img src="Readme-Imagenes/paso17_4.png" width="560">
-</p>
