@@ -11,7 +11,7 @@ Elementos utilizados:
 ![](Readme-Imagenes/videoconverter.png)
 
 * JavaFX
-![](Readme-Imagenes/JavaFX.png)
+![](Readme-Imagenes/JavaFX2.png)
 
 * Java JDBC Driver
 ![](Readme-Imagenes/jdbc.png)
