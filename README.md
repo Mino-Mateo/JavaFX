@@ -98,5 +98,101 @@ DESARROLLO:
 14.	Una vez copiado el código vamos a importar la librería SQL a nuestro proyecto
 
     <img src="Readme-Imagenes/paso14.png" width="560">
+
+
+15.	Ahora vamos a insertar las variables que vamos a utilizar mas adelante, estas cuentan con:
+
+       •	Conexión a nuestra base de datos (DB_URL)
+
+       •	Usuario de SQL (USER)
+
+       •	Contraseña de SQL (PASS)
+
+       •	Q	uerys de trabajo (Crear, Borrar, Actualizar, Mostrar)
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+16.	Opcional crear funciones para trabajar más limpio
+
+       * Función Crear
+       
+            o Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Texto para señalar el funcionamiento del programa
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Query de trabajo con las instrucciones a ejecutar
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Función Actualizar
+
+            o Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Texto para señalar el funcionamiento del programa
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Query de trabajo con las instrucciones a ejecutar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Función Borrar
+
+            o Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Texto para señalar el funcionamiento del programa
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+            o Query de trabajo con las instrucciones a ejecutar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Función Mostrar
+
+            o Establecer la conexión con la base de datos y pasarle el Query con el que vamos a trabajar
+
+            o Texto para señalar el funcionamiento del programa, aquí tendremos que detalla con el “rs.getInt o rs.getString” el tipo de datos de nuestra base de datos y con esto detallaremos el nombre de la columna de la base de datos.
+
+            o Query de trabajo con las instrucciones a ejecutar
+
+
+17.	Una vez desarrollado el código vamos a ejecutar el programa y visualizar los resultados
+
+        * Botón Mostrar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Botón Actualizar y Mostrar
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Botón Borrar (Debido a que se borró el dato no se mostrara el dato de SQL)
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
+
+
+        * Botón Crear y Mostrar 
+
+    <img src="Readme-Imagenes/paso12.png" width="560">
  
 
