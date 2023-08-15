@@ -23,7 +23,7 @@ Elementos utilizados:
 ![](Readme-Imagenes/IDEA.png)
 
 * SQL connector
-![](Readme-Imagenes/SQL.png)
+![](Readme-Imagenes/SQLC.png)
 
 * Youtube
 ![](Readme-Imagenes/Youtube.png)
