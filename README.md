@@ -5,7 +5,7 @@ Trabajo realizado por
 * Danny Yanacallo
 -----------------------------------
 Elementos utilizados:
-*Video Converter
+* Video Converter
 ![](Readme-Imagenes/videoconverter.png)
 * JavaFX
 ![](Readme-Imagenes/JavaFX.png)
