@@ -6,24 +6,23 @@ Trabajo realizado por
 -----------------------------------
 Elementos utilizados:
 
-
 * Video Converter
-![](Readme-Imagenes/videoconverter.png)
+  <img src="Readme-Imagenes/videoconverter.png" width="200">
 
 * JavaFX
-![](Readme-Imagenes/JavaFX2.png)
+  <img src="Readme-Imagenes/JavaFX2.png" width="200">
 
 * Java JDBC Driver
-![](Readme-Imagenes/jdbc.png)
+  <img src="Readme-Imagenes/jdbc.png" width="200">
 
 * Scene Builder
-![](Readme-Imagenes/Scene.png)
+  <img src="Readme-Imagenes/Scene.png" width="200">
 
 * Intellij
-![](Readme-Imagenes/IDEA.png)
+  <img src="Readme-Imagenes/IDEA.png" width="200">
 
 * SQL connector
-![](Readme-Imagenes/SQLC.png)
+  <img src="Readme-Imagenes/SQLC.png" width="200">
 
 * Youtube
-![](Readme-Imagenes/Youtube.png)
+  <img src="Readme-Imagenes/Youtube.png" width="200">
